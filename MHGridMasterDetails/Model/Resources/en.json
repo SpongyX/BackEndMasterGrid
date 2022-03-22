@@ -1,0 +1,10 @@
+{
+  "Exception": "An Error Happened, Please Contact System Administrator",
+  "MissingEmail": "Please enter email address",
+  "MissingPassword": "Please enter the password",
+  "AccountNotFound": "Account not found",
+  "IncorrectPassword": "Incorrect password",
+  "UserNotActive": "User not active",
+  "ClientAlreadyDeleted": "Client already deleted",
+  "ClientStatusSameAsNew": "Client status is same as new one"
+}

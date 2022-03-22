@@ -1,0 +1,10 @@
+{
+  "Exception": "Une erreur s'est produite, veuillez contacter l'administrateur système",
+  "MissingEmail": "Veuillez saisir une adresse e-mail",
+  "MissingPassword": "Veuillez saisir le mot de passe",
+  "AccountNotFound": "Compte non trouvé",
+  "IncorrectPassword": "Mot de passe incorrect",
+  "UserNotActive": "Utilisateur non actif",
+  "ClientAlreadyDeleted": "Client déjà supprimé",
+  "ClientStatusSameAsNew": "Le statut du client est identique au nouveau"
+}

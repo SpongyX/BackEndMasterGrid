@@ -1,0 +1,10 @@
+﻿{
+  "Exception": "حدث خطأ ، يرجى الاتصال بمسؤول النظام",
+  "MissingEmail": "الرجاء إدخال البريد الإلكتروني",
+  "MissingPassword": "الرجاء إدخال كلمة المرور",
+  "AccountNotFound": "الحساب غير موجود",
+  "IncorrectPassword": "كلمة المرور غير صحيحة",
+  "UserNotActive": "الحساب غير نشط",
+  "ClientAlreadyDeleted": "تم حذف الزبون مسبقاً",
+  "ClientStatusSameAsNew": "حالة الزبون الحالية مطابقة للحالة الجديدة"
+}
